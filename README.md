@@ -17,7 +17,7 @@ I actually tried to put all SMD components on front side only. Used Mini-USB ins
 - 5 pluggable PORTS : RA, RB, RC, RD, RE.
 - LED at RD0 for Blink Test.
 
-![3d_parts](https://github.com/thetrung/F45K50_Devkit/blob/master/Images/3D_View.png)
+![front](https://github.com/thetrung/F45K50_Devkit/blob/master/Images/3D_View.png)
 ![back](https://github.com/thetrung/F45K50_Devkit/blob/master/Images/Back.png)
 
 ### 2. TODO / Future extensions :
