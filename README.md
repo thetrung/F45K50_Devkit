@@ -20,16 +20,8 @@ I actually tried to put all SMD components on front side only. Used Mini-USB ins
 ![front](https://github.com/thetrung/F45K50_Devkit/blob/master/Images/3D_View.png)
 ![back](https://github.com/thetrung/F45K50_Devkit/blob/master/Images/Back.png)
 
-### 2. TODO / Future extensions :
-- Add Array : 
-    - 4x4 12mm-Buttons pad.
-    - 4x4 LEDs grid.
-    - 16 Relays
-      
-- Add Gyro sensor.
-- Add distance sensor.
-- Add HLK-PM01 Module & Relay.
-- Add built-in UART w/ CH340 !?
-- Add LCD2004 support, with/without I2C module.
-- Add WIFI/LoRA/Bluetooth by ESP32 support (?).
+### NOTE :
+- Fixed critical issues on MCLR pin, Reset Button, ICSP..
+- Should only take this design as references to parts.
+- No longer update/fix bugs anymore as I move-on to new designs ( with less flaws ).
   
